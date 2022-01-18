@@ -17,6 +17,7 @@ Si, dentro de los Virtual Training Days tenemos más formaciones de Azure Fundam
 
 - [Próximos Virtual Training Days en Español](https://www.microsoft.com/es-es/training-days)
 - [Próximos Virtual Training Days en Inglés](https://www.microsoft.com/en-ie/training-days)
+- [Microsoft España Eventos](https://pulse.microsoft.com/es-es/microsoft-espana-eventos-digitales/)
 - [Twitter MS_Empresas](www.twitter.com/MS_Empresas)
 - [Linkedin](https://www.linkedin.com/company/microsoft/)
 
@@ -43,7 +44,7 @@ Puedes reportar tu problema en https://aka.ms/mcpforum. Mas información en http
 
 ### ¿Cuantas veces me puedo presentar?
 
-La asistencia a la formación da derecho a solamente un examen. Podeis encontrar a politica sobre repetición de examenes aqui: https://docs.microsoft.com/es-es/learn/certifications/exam-security-policy-and-exam-retake-policy
+La asistencia a la formación da derecho a solamente un examen gratuito. Si lo suspendes, puedes registrarte y asistir a otra formación similar obtendrás otro descuento. Podeis encontrar a politica sobre repetición de examenes aqui: https://docs.microsoft.com/es-es/learn/certifications/exam-security-policy-and-exam-retake-policy
 
 ### ¿El examen está disponible en Español?
 
